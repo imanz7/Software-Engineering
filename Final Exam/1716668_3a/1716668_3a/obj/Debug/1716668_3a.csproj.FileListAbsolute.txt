@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\bin\Debug\1716668_3a.exe.config
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\bin\Debug\1716668_3a.exe
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\bin\Debug\1716668_3a.pdb
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\obj\Debug\1716668_3a.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\obj\Debug\1716668_3a.exe
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\obj\Debug\1716668_3a.pdb
+C:\Users\imanz\source\repos\1716668_3a\1716668_3a\obj\Debug\1716668_3a.csproj.AssemblyReference.cache

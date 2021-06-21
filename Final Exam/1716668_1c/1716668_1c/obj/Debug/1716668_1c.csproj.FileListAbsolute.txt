@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\bin\Debug\1716668_1c.exe.config
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\bin\Debug\1716668_1c.exe
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\bin\Debug\1716668_1c.pdb
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\obj\Debug\1716668_1c.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\obj\Debug\1716668_1c.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\obj\Debug\1716668_1c.exe
+C:\Users\imanz\source\repos\1716668_1c\1716668_1c\obj\Debug\1716668_1c.pdb
