@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\bin\Debug\Quiz2_1716668.exe.config
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\bin\Debug\Quiz2_1716668.exe
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\bin\Debug\Quiz2_1716668.pdb
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\obj\Debug\Quiz2_1716668.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\obj\Debug\Quiz2_1716668.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\obj\Debug\Quiz2_1716668.exe
+C:\Users\imanz\source\repos\Quiz2_1716668\Quiz2_1716668\obj\Debug\Quiz2_1716668.pdb
