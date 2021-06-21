@@ -1,0 +1,10 @@
+C:\Users\imanz\source\repos\Client_01\Client_01\bin\Debug\Client_01.exe.config
+C:\Users\imanz\source\repos\Client_01\Client_01\bin\Debug\Client_01.exe
+C:\Users\imanz\source\repos\Client_01\Client_01\bin\Debug\Client_01.pdb
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.Form_C.resources
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.Properties.Resources.resources
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.csproj.GenerateResource.cache
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.exe
+C:\Users\imanz\source\repos\Client_01\Client_01\obj\Debug\Client_01.pdb

@@ -1,0 +1,10 @@
+C:\Users\imanz\source\repos\GUI_2\GUI_2\bin\Debug\GUI_2.exe.config
+C:\Users\imanz\source\repos\GUI_2\GUI_2\bin\Debug\GUI_2.exe
+C:\Users\imanz\source\repos\GUI_2\GUI_2\bin\Debug\GUI_2.pdb
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.Form1.resources
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.Properties.Resources.resources
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.csproj.GenerateResource.cache
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.exe
+C:\Users\imanz\source\repos\GUI_2\GUI_2\obj\Debug\GUI_2.pdb
