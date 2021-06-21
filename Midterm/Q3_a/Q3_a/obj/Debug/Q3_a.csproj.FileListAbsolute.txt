@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\Q3_a\Q3_a\bin\Debug\Q3_a.exe.config
+C:\Users\imanz\source\repos\Q3_a\Q3_a\bin\Debug\Q3_a.exe
+C:\Users\imanz\source\repos\Q3_a\Q3_a\bin\Debug\Q3_a.pdb
+C:\Users\imanz\source\repos\Q3_a\Q3_a\obj\Debug\Q3_a.csprojAssemblyReference.cache
+C:\Users\imanz\source\repos\Q3_a\Q3_a\obj\Debug\Q3_a.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\Q3_a\Q3_a\obj\Debug\Q3_a.exe
+C:\Users\imanz\source\repos\Q3_a\Q3_a\obj\Debug\Q3_a.pdb
