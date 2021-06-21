@@ -1,0 +1,14 @@
+C:\Users\imanz\source\repos\GUI_1\GUI_1\bin\Debug\GUI_1.exe.config
+C:\Users\imanz\source\repos\GUI_1\GUI_1\bin\Debug\GUI_1.exe
+C:\Users\imanz\source\repos\GUI_1\GUI_1\bin\Debug\GUI_1.pdb
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.Properties.Resources.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.csproj.GenerateResource.cache
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.exe
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.pdb
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.Add.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.Form1.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.View.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.Delete.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.Find.resources
+C:\Users\imanz\source\repos\GUI_1\GUI_1\obj\Debug\GUI_1.csproj.AssemblyReference.cache
