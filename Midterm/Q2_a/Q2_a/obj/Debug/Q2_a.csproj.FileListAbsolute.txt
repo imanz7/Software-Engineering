@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\Q2_a\Q2_a\obj\Debug\Q2_a.csprojAssemblyReference.cache
+C:\Users\imanz\source\repos\Q2_a\Q2_a\obj\Debug\Q2_a.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\Q2_a\Q2_a\bin\Debug\Q2_a.exe.config
+C:\Users\imanz\source\repos\Q2_a\Q2_a\bin\Debug\Q2_a.exe
+C:\Users\imanz\source\repos\Q2_a\Q2_a\bin\Debug\Q2_a.pdb
+C:\Users\imanz\source\repos\Q2_a\Q2_a\obj\Debug\Q2_a.exe
+C:\Users\imanz\source\repos\Q2_a\Q2_a\obj\Debug\Q2_a.pdb

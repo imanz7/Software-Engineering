@@ -1,0 +1,7 @@
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\obj\Debug\Draft_Exercise.csprojAssemblyReference.cache
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\obj\Debug\Draft_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\bin\Debug\Draft_Exercise.exe.config
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\bin\Debug\Draft_Exercise.exe
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\bin\Debug\Draft_Exercise.pdb
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\obj\Debug\Draft_Exercise.exe
+C:\Users\imanz\source\repos\Draft_Exercise\Draft_Exercise\obj\Debug\Draft_Exercise.pdb

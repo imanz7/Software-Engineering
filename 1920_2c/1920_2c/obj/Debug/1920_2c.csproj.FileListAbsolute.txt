@@ -1,0 +1,10 @@
+C:\Users\imanz\source\repos\1920_2c\1920_2c\bin\Debug\1920_2c.exe.config
+C:\Users\imanz\source\repos\1920_2c\1920_2c\bin\Debug\1920_2c.exe
+C:\Users\imanz\source\repos\1920_2c\1920_2c\bin\Debug\1920_2c.pdb
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\1920_2c.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\_1920_2c.Form1.resources
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\_1920_2c.Properties.Resources.resources
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\1920_2c.csproj.GenerateResource.cache
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\1920_2c.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\1920_2c.exe
+C:\Users\imanz\source\repos\1920_2c\1920_2c\obj\Debug\1920_2c.pdb
