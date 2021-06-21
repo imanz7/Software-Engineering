@@ -1,0 +1,14 @@
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\bin\Debug\1716668_3b.exe.config
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\bin\Debug\1716668_3b.exe
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\bin\Debug\1716668_3b.pdb
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\obj\Debug\1716668_3b.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\obj\Debug\1716668_3b.exe
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\obj\Debug\1716668_3b.pdb
+C:\Users\imanz\source\repos\1716668_3b\1716668_3b\obj\Debug\1716668_3b.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\bin\Debug\1716668_3b.exe.config
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\bin\Debug\1716668_3b.exe
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\bin\Debug\1716668_3b.pdb
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\obj\Debug\1716668_3b.csproj.AssemblyReference.cache
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\obj\Debug\1716668_3b.csproj.CoreCompileInputs.cache
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\obj\Debug\1716668_3b.exe
+C:\Users\imanz\source\repos\1716668_Final\1716668_3b\1716668_3b\obj\Debug\1716668_3b.pdb
